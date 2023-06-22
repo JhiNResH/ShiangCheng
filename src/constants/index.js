@@ -15,7 +15,7 @@ export const navLinks = [
   },
   {
     id: "contacts",
-    title: "聯絡方式",
+    title: "聯絡我們",
   },
 ];
 
