@@ -10,7 +10,7 @@ export const navLinks = [
     title: "特色",
   },
   {
-    id: "products",
+    id: "product",
     title: "商品",
   },
   {
