@@ -25,21 +25,21 @@ export const features = [
     icon: star,
     title: "工程",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "監視器系統、辦公室系統、智能系統整合工程",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "維護、保養",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "電腦、系統、電話、監視器、影印機維護保養",
   },
   {
     id: "feature-3",
     icon: send,
     title: "買賣、租賃",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "電話、影印機、電腦、各式零件、線材、監視器",
   },
 ];
 
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "開業經驗",
+    value: "30年+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "客戶群",
+    value: "300+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "服務區域",
+    value: "全台各地",
   },
 ];
 

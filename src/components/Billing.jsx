@@ -20,7 +20,7 @@ const Billing = () => (
       Elit enim sed massa etiam. Mauris eu adipiscing ultrices ametodio aenean neque. Fusce ipsum orci rhoncus aliporttitor integer platea placerat.
       </p>
     <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
-      <img src={shopee} alt="shopee" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer"/>
+      <a href="https://shopee.tw/cy87876038?categoryId=100010&entryPoint=ShopByPDP&itemId=20005377879&upstream=search"><img src={shopee} alt="shopee" className="w-[128px] h-[42px] object-contain mr-5 cursor-pointer"/></a>
       <img src={pchome} alt="pchome" className="w-[128px] h-[42px] object-contain cursor-pointer"/>
 
     </div>
