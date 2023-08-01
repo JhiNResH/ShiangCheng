@@ -1,7 +1,6 @@
 import { shopee, bill, pchome } from "../assets";
 import styles, { layout } from '../style';
 
-
 const Billing = () => (
   <section id='product' className={layout.sectionReverse}>
     <div className={layout.sectionImgReverse}>
